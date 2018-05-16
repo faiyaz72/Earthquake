@@ -1,3 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="/work folder/programing/projects/Earthquake/app/build/intermediates/exploded-aar/android.arch.lifecycle/viewmodel/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-viewmodel-1.1.0_ba7490d25d50b7890503085d3ae9aba38a3a6175.jar" />
+    </item>
+    <item
+        jar="/work folder/programing/projects/Earthquake/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.1.0_191a04f2c99adbaa5140a0907ad80f9b83fad076.jar" />
+    </item>
+    <item
+        jar="/work folder/programing/projects/Earthquake/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.1.0_71924ac45d257d604787888024f04ec86102169a.jar" />
+    </item>
+    <item
+        jar="/Users/FaiyazHuq/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/support-annotations-27.1.0_31adb1cb26f7d055f5b7c87b99472b72281b1108.jar" />
+    </item>
+    <item
+        jar="/work folder/programing/projects/Earthquake/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.1.0_592d52aea13179c3673b2f4546fd65430238c89a.jar" />
+    </item>
+    <item
+        jar="/Users/FaiyazHuq/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.0/931532e953a477f876f2de18c2e7f16eee01078f/constraint-layout-solver-1.1.0.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="931532e953a477f876f2de18c2e7f16eee01078f">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.1.0_9c8dbc42663bc6976ba46955a0335bdef9eef8ee.jar" />
+    </item>
+    <item
+        jar="/work folder/programing/projects/Earthquake/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="f46121a7c3b3ba958fc27c39447ae205be23ac4a">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.1.0_e1f18ec0621e4ceaa05318b33bca7461f4c3abe1.jar" />
+    </item>
+    <item
+        jar="/work folder/programing/projects/Earthquake/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.1.0_88ade2e7a114d52bf6df707641186e35249b365a.jar" />
+    </item>
+    <item
+        jar="/Users/FaiyazHuq/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/common-1.1.0_6f972a1785b622e1e5e0ae4cdcd3e771ea931366.jar" />
+    </item>
+    <item
+        jar="/work folder/programing/projects/Earthquake/app/build/intermediates/exploded-aar/android.arch.core/runtime/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/android.arch.core-runtime-1.1.0_7564bcb8b9d8e6750bc3b579fb1a46464a45fa9b.jar" />
+    </item>
+    <item
+        jar="/Users/FaiyazHuq/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/common-1.1.0_ebcd3617be5e0434cd46d2f1bad83a875ec26566.jar" />
+    </item>
+    <item
+        jar="/work folder/programing/projects/Earthquake/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.1.0_9891205b59fd3872dd7685fa51cf2f476d7bf2a3.jar" />
+    </item>
+    <item
+        jar="/work folder/programing/projects/Earthquake/app/build/intermediates/exploded-aar/android.arch.lifecycle/livedata-core/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-livedata-core-1.1.0_63efa6c3b56d8acf9d6eb9df1402e520462eb0c7.jar" />
+    </item>
+    <item
+        jar="/work folder/programing/projects/Earthquake/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.1.0_3466ccbacc54fa820f6d64a1f5e50d520b4ec100.jar" />
+    </item>
+    <item
+        jar="/work folder/programing/projects/Earthquake/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.1.0_5fcf2a3bdff47c3e4347a9d2efe2ffc11b870bb6.jar" />
+    </item>
+    <item
+        jar="/work folder/programing/projects/Earthquake/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="/work folder/programing/projects/Earthquake/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.1.0_fe7b1308f7c6f3d1041776087009f3dac5ff190a.jar" />
+    </item>
+
+</items>

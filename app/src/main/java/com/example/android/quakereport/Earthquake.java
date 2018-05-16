@@ -10,6 +10,8 @@ class Earthquake {
 
     private long date1;
 
+    private String URL;
+
     public Earthquake(double magnitude, String name, String date) {
 
         this.magnitude = magnitude;
@@ -22,6 +24,14 @@ class Earthquake {
         this.magnitude = magnitude;
         this.name = name;
         this.date1 = date1;
+    }
+
+    public void setURL(String url) {
+        URL = url;
+    }
+
+    public String getURL() {
+        return URL;
     }
 
     public String getDate() {

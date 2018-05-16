@@ -64,7 +64,12 @@ public final class QueryUtils {
 
                 long date = properties.getLong("time");
 
-                earthquakes.add(new Earthquake(mag, location, date));
+                Earthquake temp = new Earthquake(mag, location, date);
+
+                String url = properties.getString("url");
+
+                earthquakes.add(temp);
+                temp.setURL(url);
             }
 
         } catch (JSONException e) {
