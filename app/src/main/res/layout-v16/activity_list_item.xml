@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    tools:context=".list_item"
+    android:orientation="horizontal"
+    android:paddingEnd="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingStart="16dp"
+    tools:ignore="ExtraText">
+
+    <TextView
+        android:id="@+id/magnitude"
+        android:layout_width="36dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/magnitude_circle"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        tools:text="8.9" />
+        />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1.9"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:id="@+id/location"
+        tools:text="Location"
+        />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:maxLines="1"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:id="@+id/date"
+        tools:text="Date"
+        />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:maxLines="1"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:id="@+id/time"
+        tools:text="Time"
+        />
+
+
+</LinearLayout>
