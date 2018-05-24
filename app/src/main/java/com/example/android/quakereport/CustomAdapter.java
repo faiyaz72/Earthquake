@@ -43,7 +43,7 @@ public class CustomAdapter extends ArrayAdapter {
 
         long dateUni = current.getDate1();
         Date dateObject = new Date(dateUni);
-        SimpleDateFormat dateFormatter = new SimpleDateFormat("MMM DD, yyyy");
+        SimpleDateFormat dateFormatter = new SimpleDateFormat("MMM dd");
         dateSet = dateFormatter.format(dateObject);
         date.setText(dateSet);
 

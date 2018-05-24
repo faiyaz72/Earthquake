@@ -10,6 +10,8 @@ class Earthquake {
 
     private long date1;
 
+    private String test;
+
     private String URL;
 
     public Earthquake(double magnitude, String name, String date) {
