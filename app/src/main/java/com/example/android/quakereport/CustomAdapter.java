@@ -17,8 +17,15 @@ import java.util.ArrayList;
 
 public class CustomAdapter extends ArrayAdapter {
 
+    ArrayList<Earthquake> data;
+
     public CustomAdapter(Activity context, ArrayList<Earthquake> miwoks) {
         super(context, 0, miwoks);
+    }
+
+    public void setEarthquake(ArrayList<Earthquake> dataToSet) {
+        data = dataToSet;
+
     }
 
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
